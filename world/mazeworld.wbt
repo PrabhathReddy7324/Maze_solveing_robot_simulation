@@ -1994,7 +1994,7 @@ DirectionalLight {
 # --- E-puck robot at start position ---
 E-puck {
   translation -1.4 0 1.36
-  rotation 0 0 0 0
+  rotation -0.5773502691896258 0.5773502691896258 0.5773502691896258 2.0944
   name "e-puck"
   controller "mazeSolverController"
   version "2"
